@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is aimed at building a spam detector using machine learning models. The objective is to classify email messages as spam or not using two different models: Logistic Regression and Random Forests Classifier.
+This project is aimed at building a spam detector using machine learning models. The objective is to classify email messages as spam or not using two different models: Logistic Regression and Random Forests Classifier. I was provided assistance by Sean Morey, the instructor of the class. Angel Milla, a BCS tutor, was a big help. I lastly could not have been able to finish this code without the help from the BCS Xpert Learning Assistant.
 
 ## Project Structure
 

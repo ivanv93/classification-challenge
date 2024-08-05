@@ -11,8 +11,8 @@ This project is aimed at building a spam detector using machine learning models.
     2. Model Prediction: Predicted which model might perform better and justified the prediction.
 
     3. Data Preprocessing:
-        * Split the data into training and testing sets.
-        * Scaled the data for better model performance.
+        - Split the data into training and testing sets.
+        - Scaled the data for better model performance.
 
     4. Model Training: Created and trained two models: Logistic Regression and Random Forests Classifier.
 
